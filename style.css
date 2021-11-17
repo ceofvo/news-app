@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.title h1 {
+    text-align: center;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.main img {
+    width: 100%;
+}
+
+.content {
+    width: 30%;
+    margin: 20px;
+}
